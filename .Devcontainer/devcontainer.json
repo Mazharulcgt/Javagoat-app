@@ -1,0 +1,5 @@
+{
+  "name": "Generic Dev Container",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "postCreateCommand": "bash setup-sdk.sh"
+}
